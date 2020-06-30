@@ -1,0 +1,1 @@
+/usr/bin/c++   -std=c++14 -Wall -Wextra -pedantic -g  -rdynamic CMakeFiles/hw01_main.dir/main.cpp.o CMakeFiles/hw01_main.dir/zoo.cpp.o CMakeFiles/hw01_main.dir/handler.cpp.o  -o hw01_main 

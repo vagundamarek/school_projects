@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/marek/Documents/pb161/hw02/config.cpp
+config.hpp
+/home/marek/Documents/pb161/hw02/config.hpp
+fstream
+-
+
+/home/marek/Documents/pb161/hw02/config.hpp
+iostream
+-
+set
+-
+string
+-
+vector
+-
+

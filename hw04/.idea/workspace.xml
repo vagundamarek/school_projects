@@ -1,0 +1,620 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true" buildAllGenerated="true">
+    <generated>
+      <config projectName="hw04" targetName="hw04" />
+      <config projectName="hw04" targetName="hw04_tests" />
+    </generated>
+  </component>
+  <component name="CMakeSettings" AUTO_RELOAD="true">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="06cc011e-498b-4e45-9ad1-9ad7861e140d" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/../2016/hw01/adoption.h" beforeDir="false" afterPath="$PROJECT_DIR$/../2016/hw01/adoption.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2016/hw01/animal.h" beforeDir="false" afterPath="$PROJECT_DIR$/../2016/hw01/animal.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2016/hw01/codestyle.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../2016/hw01/codestyle.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2016/hw01/handler.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../2016/hw01/handler.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2016/hw01/handler.h" beforeDir="false" afterPath="$PROJECT_DIR$/../2016/hw01/handler.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2016/hw01/person.h" beforeDir="false" afterPath="$PROJECT_DIR$/../2016/hw01/person.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2016/hw01/zoo.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../2016/hw01/zoo.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2016/hw01/zoo.h" beforeDir="false" afterPath="$PROJECT_DIR$/../2016/hw01/zoo.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2016/hw02/cli.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../2016/hw02/cli.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2016/hw02/cli.hpp" beforeDir="false" afterPath="$PROJECT_DIR$/../2016/hw02/cli.hpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2016/hw02/codestyle.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../2016/hw02/codestyle.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2016/hw02/image.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../2016/hw02/image.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2016/hw02/image.hpp" beforeDir="false" afterPath="$PROJECT_DIR$/../2016/hw02/image.hpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2016/hw02/img.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../2016/hw02/img.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2016/hw02/tools.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../2016/hw02/tools.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2016/hw02/tools.hpp" beforeDir="false" afterPath="$PROJECT_DIR$/../2016/hw02/tools.hpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2016/hw03/Invoice.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../2016/hw03/Invoice.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2016/hw03/Invoice.hpp" beforeDir="false" afterPath="$PROJECT_DIR$/../2016/hw03/Invoice.hpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2016/hw03/InvoiceDatabase.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../2016/hw03/InvoiceDatabase.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2016/hw03/InvoiceDatabase.hpp" beforeDir="false" afterPath="$PROJECT_DIR$/../2016/hw03/InvoiceDatabase.hpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2016/hw03/InvoiceFacade.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../2016/hw03/InvoiceFacade.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2016/hw03/InvoiceFacade.hpp" beforeDir="false" afterPath="$PROJECT_DIR$/../2016/hw03/InvoiceFacade.hpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2016/hw03/InvoiceFacadeInterface.hpp" beforeDir="false" afterPath="$PROJECT_DIR$/../2016/hw03/InvoiceFacadeInterface.hpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2016/hw03/InvoiceItem.hpp" beforeDir="false" afterPath="$PROJECT_DIR$/../2016/hw03/InvoiceItem.hpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2016/hw03/ServiceContainer.hpp" beforeDir="false" afterPath="$PROJECT_DIR$/../2016/hw03/ServiceContainer.hpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2016/hw03/ServiceContainerInterface.hpp" beforeDir="false" afterPath="$PROJECT_DIR$/../2016/hw03/ServiceContainerInterface.hpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2016/hw03/Subject.hpp" beforeDir="false" afterPath="$PROJECT_DIR$/../2016/hw03/Subject.hpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2016/hw03/SubjectsDatabase.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../2016/hw03/SubjectsDatabase.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2016/hw03/SubjectsDatabase.hpp" beforeDir="false" afterPath="$PROJECT_DIR$/../2016/hw03/SubjectsDatabase.hpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2016/hw03/SubjectsFacade.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../2016/hw03/SubjectsFacade.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2016/hw03/SubjectsFacade.hpp" beforeDir="false" afterPath="$PROJECT_DIR$/../2016/hw03/SubjectsFacade.hpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2016/hw03/SubjectsFacadeInterface.hpp" beforeDir="false" afterPath="$PROJECT_DIR$/../2016/hw03/SubjectsFacadeInterface.hpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2016/hw03/codestyle.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../2016/hw03/codestyle.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2016/hw03/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../2016/hw03/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2016/mini01/attack.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../2016/mini01/attack.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2016/mini03/elections.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../2016/mini03/elections.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2016/mini04/DiskDrive.h" beforeDir="false" afterPath="$PROJECT_DIR$/../2016/mini04/DiskDrive.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2016/mini04/GraphicsCard.h" beforeDir="false" afterPath="$PROJECT_DIR$/../2016/mini04/GraphicsCard.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2016/mini04/Memory.h" beforeDir="false" afterPath="$PROJECT_DIR$/../2016/mini04/Memory.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2016/mini04/NetworkAttachedStorage.h" beforeDir="false" afterPath="$PROJECT_DIR$/../2016/mini04/NetworkAttachedStorage.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2016/mini04/PersonalComputer.h" beforeDir="false" afterPath="$PROJECT_DIR$/../2016/mini04/PersonalComputer.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2016/mini04/Processor.h" beforeDir="false" afterPath="$PROJECT_DIR$/../2016/mini04/Processor.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2016/mini04/codestyle.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../2016/mini04/codestyle.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2016/mini05/bmp_image.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../2016/mini05/bmp_image.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2016/mini05/bmp_image.h" beforeDir="false" afterPath="$PROJECT_DIR$/../2016/mini05/bmp_image.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2016/mini05/codestyle.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../2016/mini05/codestyle.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2016/mini06/adoption.h" beforeDir="false" afterPath="$PROJECT_DIR$/../2016/mini06/adoption.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2016/mini06/animal.h" beforeDir="false" afterPath="$PROJECT_DIR$/../2016/mini06/animal.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2016/mini06/codestyle.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../2016/mini06/codestyle.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2016/mini06/handler.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../2016/mini06/handler.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2016/mini06/handler.h" beforeDir="false" afterPath="$PROJECT_DIR$/../2016/mini06/handler.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2016/mini06/person.h" beforeDir="false" afterPath="$PROJECT_DIR$/../2016/mini06/person.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2016/mini06/zoo.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../2016/mini06/zoo.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2016/mini06/zoo.h" beforeDir="false" afterPath="$PROJECT_DIR$/../2016/mini06/zoo.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2016/mini07/Nursery.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../2016/mini07/Nursery.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2016/mini07/Nursery.hpp" beforeDir="false" afterPath="$PROJECT_DIR$/../2016/mini07/Nursery.hpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2016/mini07/Pokemon.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../2016/mini07/Pokemon.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2016/mini07/Pokemon.hpp" beforeDir="false" afterPath="$PROJECT_DIR$/../2016/mini07/Pokemon.hpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2016/mini07/Species.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../2016/mini07/Species.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2016/mini07/Species.hpp" beforeDir="false" afterPath="$PROJECT_DIR$/../2016/mini07/Species.hpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2016/mini07/codestyle.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../2016/mini07/codestyle.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2016/mini08/PrinterFactory.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../2016/mini08/PrinterFactory.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2016/mini08/PrinterFactory.h" beforeDir="false" afterPath="$PROJECT_DIR$/../2016/mini08/PrinterFactory.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2016/mini08/PrinterTypes.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../2016/mini08/PrinterTypes.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2016/mini08/PrinterTypes.h" beforeDir="false" afterPath="$PROJECT_DIR$/../2016/mini08/PrinterTypes.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2016/mini08/codestyle.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../2016/mini08/codestyle.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2016/mini09/CustomArray.hpp" beforeDir="false" afterPath="$PROJECT_DIR$/../2016/mini09/CustomArray.hpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2016/mini09/codestyle.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../2016/mini09/codestyle.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../codestyle.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../codestyle.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/hello.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../hello/hello.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw01/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../hw01/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw01/adoption.h" beforeDir="false" afterPath="$PROJECT_DIR$/../hw01/adoption.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw01/animal.h" beforeDir="false" afterPath="$PROJECT_DIR$/../hw01/animal.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw01/catch.hpp" beforeDir="false" afterPath="$PROJECT_DIR$/../hw01/catch.hpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw01/cmake-build-debug/CMakeCache.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../hw01/cmake-build-debug/CMakeCache.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw01/cmake-build-debug/CMakeFiles/3.8.2/CMakeCCompiler.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../hw01/cmake-build-debug/CMakeFiles/3.8.2/CMakeCCompiler.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw01/cmake-build-debug/CMakeFiles/3.8.2/CMakeCXXCompiler.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../hw01/cmake-build-debug/CMakeFiles/3.8.2/CMakeCXXCompiler.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw01/cmake-build-debug/CMakeFiles/3.8.2/CMakeSystem.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../hw01/cmake-build-debug/CMakeFiles/3.8.2/CMakeSystem.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw01/cmake-build-debug/CMakeFiles/3.8.2/CompilerIdC/CMakeCCompilerId.c" beforeDir="false" afterPath="$PROJECT_DIR$/../hw01/cmake-build-debug/CMakeFiles/3.8.2/CompilerIdC/CMakeCCompilerId.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw01/cmake-build-debug/CMakeFiles/3.8.2/CompilerIdCXX/CMakeCXXCompilerId.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../hw01/cmake-build-debug/CMakeFiles/3.8.2/CompilerIdCXX/CMakeCXXCompilerId.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw01/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../hw01/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw01/cmake-build-debug/CMakeFiles/CMakeOutput.log" beforeDir="false" afterPath="$PROJECT_DIR$/../hw01/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw01/cmake-build-debug/CMakeFiles/Makefile.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../hw01/cmake-build-debug/CMakeFiles/Makefile.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw01/cmake-build-debug/CMakeFiles/Makefile2" beforeDir="false" afterPath="$PROJECT_DIR$/../hw01/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw01/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../hw01/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw01/cmake-build-debug/CMakeFiles/clion-environment.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../hw01/cmake-build-debug/CMakeFiles/clion-environment.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw01/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../hw01/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw01/cmake-build-debug/CMakeFiles/cmake.check_cache" beforeDir="false" afterPath="$PROJECT_DIR$/../hw01/cmake-build-debug/CMakeFiles/cmake.check_cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw01/cmake-build-debug/CMakeFiles/feature_tests.c" beforeDir="false" afterPath="$PROJECT_DIR$/../hw01/cmake-build-debug/CMakeFiles/feature_tests.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw01/cmake-build-debug/CMakeFiles/feature_tests.cxx" beforeDir="false" afterPath="$PROJECT_DIR$/../hw01/cmake-build-debug/CMakeFiles/feature_tests.cxx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw01/cmake-build-debug/CMakeFiles/hw01_main.dir/CXX.includecache" beforeDir="false" afterPath="$PROJECT_DIR$/../hw01/cmake-build-debug/CMakeFiles/hw01_main.dir/CXX.includecache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw01/cmake-build-debug/CMakeFiles/hw01_main.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../hw01/cmake-build-debug/CMakeFiles/hw01_main.dir/DependInfo.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw01/cmake-build-debug/CMakeFiles/hw01_main.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/../hw01/cmake-build-debug/CMakeFiles/hw01_main.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw01/cmake-build-debug/CMakeFiles/hw01_main.dir/cmake_clean.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../hw01/cmake-build-debug/CMakeFiles/hw01_main.dir/cmake_clean.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw01/cmake-build-debug/CMakeFiles/hw01_main.dir/depend.internal" beforeDir="false" afterPath="$PROJECT_DIR$/../hw01/cmake-build-debug/CMakeFiles/hw01_main.dir/depend.internal" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw01/cmake-build-debug/CMakeFiles/hw01_main.dir/depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/../hw01/cmake-build-debug/CMakeFiles/hw01_main.dir/depend.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw01/cmake-build-debug/CMakeFiles/hw01_main.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/../hw01/cmake-build-debug/CMakeFiles/hw01_main.dir/flags.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw01/cmake-build-debug/CMakeFiles/hw01_main.dir/handler.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/../hw01/cmake-build-debug/CMakeFiles/hw01_main.dir/handler.cpp.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw01/cmake-build-debug/CMakeFiles/hw01_main.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../hw01/cmake-build-debug/CMakeFiles/hw01_main.dir/link.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw01/cmake-build-debug/CMakeFiles/hw01_main.dir/main.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/../hw01/cmake-build-debug/CMakeFiles/hw01_main.dir/main.cpp.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw01/cmake-build-debug/CMakeFiles/hw01_main.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/../hw01/cmake-build-debug/CMakeFiles/hw01_main.dir/progress.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw01/cmake-build-debug/CMakeFiles/hw01_main.dir/zoo.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/../hw01/cmake-build-debug/CMakeFiles/hw01_main.dir/zoo.cpp.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw01/cmake-build-debug/CMakeFiles/hw01_tests.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../hw01/cmake-build-debug/CMakeFiles/hw01_tests.dir/DependInfo.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw01/cmake-build-debug/CMakeFiles/hw01_tests.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/../hw01/cmake-build-debug/CMakeFiles/hw01_tests.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw01/cmake-build-debug/CMakeFiles/hw01_tests.dir/cmake_clean.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../hw01/cmake-build-debug/CMakeFiles/hw01_tests.dir/cmake_clean.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw01/cmake-build-debug/CMakeFiles/hw01_tests.dir/depend.internal" beforeDir="false" afterPath="$PROJECT_DIR$/../hw01/cmake-build-debug/CMakeFiles/hw01_tests.dir/depend.internal" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw01/cmake-build-debug/CMakeFiles/hw01_tests.dir/depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/../hw01/cmake-build-debug/CMakeFiles/hw01_tests.dir/depend.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw01/cmake-build-debug/CMakeFiles/hw01_tests.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/../hw01/cmake-build-debug/CMakeFiles/hw01_tests.dir/flags.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw01/cmake-build-debug/CMakeFiles/hw01_tests.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../hw01/cmake-build-debug/CMakeFiles/hw01_tests.dir/link.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw01/cmake-build-debug/CMakeFiles/hw01_tests.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/../hw01/cmake-build-debug/CMakeFiles/hw01_tests.dir/progress.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw01/cmake-build-debug/CMakeFiles/progress.marks" beforeDir="false" afterPath="$PROJECT_DIR$/../hw01/cmake-build-debug/CMakeFiles/progress.marks" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw01/cmake-build-debug/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/../hw01/cmake-build-debug/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw01/cmake-build-debug/cmake_install.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../hw01/cmake-build-debug/cmake_install.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw01/cmake-build-debug/hw01.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/../hw01/cmake-build-debug/hw01.cbp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw01/cmake-build-debug/hw01_main" beforeDir="false" afterPath="$PROJECT_DIR$/../hw01/cmake-build-debug/hw01_main" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw01/codestyle.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../hw01/codestyle.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw01/handler.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../hw01/handler.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw01/handler.h" beforeDir="false" afterPath="$PROJECT_DIR$/../hw01/handler.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw01/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../hw01/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw01/person.h" beforeDir="false" afterPath="$PROJECT_DIR$/../hw01/person.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw01/test-main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../hw01/test-main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw01/test-student.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../hw01/test-student.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw01/zoo.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../hw01/zoo.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw01/zoo.h" beforeDir="false" afterPath="$PROJECT_DIR$/../hw01/zoo.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw02/codestyle.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../hw02/codestyle.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw02/config.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../hw02/config.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw02/config.hpp" beforeDir="false" afterPath="$PROJECT_DIR$/../hw02/config.hpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/codestyle.txt" beforeDir="false" afterPath="$PROJECT_DIR$/codestyle.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/trie.h" beforeDir="false" afterPath="$PROJECT_DIR$/trie.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mini01/.idea/mini01.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../mini01/.idea/mini01.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mini01/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../mini01/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mini01/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../mini01/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mini01/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../mini01/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mini01/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../mini01/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mini01/attack.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../mini01/attack.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mini01/attack.hpp" beforeDir="false" afterPath="$PROJECT_DIR$/../mini01/attack.hpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mini01/catch.hpp" beforeDir="false" afterPath="$PROJECT_DIR$/../mini01/catch.hpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mini01/cmake-build-debug/CMakeCache.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../mini01/cmake-build-debug/CMakeCache.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mini01/cmake-build-debug/CMakeFiles/3.8.2/CMakeCCompiler.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../mini01/cmake-build-debug/CMakeFiles/3.8.2/CMakeCCompiler.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mini01/cmake-build-debug/CMakeFiles/3.8.2/CMakeCXXCompiler.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../mini01/cmake-build-debug/CMakeFiles/3.8.2/CMakeCXXCompiler.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mini01/cmake-build-debug/CMakeFiles/3.8.2/CMakeSystem.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../mini01/cmake-build-debug/CMakeFiles/3.8.2/CMakeSystem.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mini01/cmake-build-debug/CMakeFiles/3.8.2/CompilerIdC/CMakeCCompilerId.c" beforeDir="false" afterPath="$PROJECT_DIR$/../mini01/cmake-build-debug/CMakeFiles/3.8.2/CompilerIdC/CMakeCCompilerId.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mini01/cmake-build-debug/CMakeFiles/3.8.2/CompilerIdCXX/CMakeCXXCompilerId.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../mini01/cmake-build-debug/CMakeFiles/3.8.2/CompilerIdCXX/CMakeCXXCompilerId.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mini01/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../mini01/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mini01/cmake-build-debug/CMakeFiles/CMakeOutput.log" beforeDir="false" afterPath="$PROJECT_DIR$/../mini01/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mini01/cmake-build-debug/CMakeFiles/Makefile.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../mini01/cmake-build-debug/CMakeFiles/Makefile.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mini01/cmake-build-debug/CMakeFiles/Makefile2" beforeDir="false" afterPath="$PROJECT_DIR$/../mini01/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mini01/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../mini01/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mini01/cmake-build-debug/CMakeFiles/clion-environment.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../mini01/cmake-build-debug/CMakeFiles/clion-environment.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mini01/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../mini01/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mini01/cmake-build-debug/CMakeFiles/cmake.check_cache" beforeDir="false" afterPath="$PROJECT_DIR$/../mini01/cmake-build-debug/CMakeFiles/cmake.check_cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mini01/cmake-build-debug/CMakeFiles/feature_tests.c" beforeDir="false" afterPath="$PROJECT_DIR$/../mini01/cmake-build-debug/CMakeFiles/feature_tests.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mini01/cmake-build-debug/CMakeFiles/feature_tests.cxx" beforeDir="false" afterPath="$PROJECT_DIR$/../mini01/cmake-build-debug/CMakeFiles/feature_tests.cxx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mini01/cmake-build-debug/CMakeFiles/mini01_main.dir/CXX.includecache" beforeDir="false" afterPath="$PROJECT_DIR$/../mini01/cmake-build-debug/CMakeFiles/mini01_main.dir/CXX.includecache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mini01/cmake-build-debug/CMakeFiles/mini01_main.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../mini01/cmake-build-debug/CMakeFiles/mini01_main.dir/DependInfo.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mini01/cmake-build-debug/CMakeFiles/mini01_main.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/../mini01/cmake-build-debug/CMakeFiles/mini01_main.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mini01/cmake-build-debug/CMakeFiles/mini01_main.dir/cmake_clean.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../mini01/cmake-build-debug/CMakeFiles/mini01_main.dir/cmake_clean.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mini01/cmake-build-debug/CMakeFiles/mini01_main.dir/depend.internal" beforeDir="false" afterPath="$PROJECT_DIR$/../mini01/cmake-build-debug/CMakeFiles/mini01_main.dir/depend.internal" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mini01/cmake-build-debug/CMakeFiles/mini01_main.dir/depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/../mini01/cmake-build-debug/CMakeFiles/mini01_main.dir/depend.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mini01/cmake-build-debug/CMakeFiles/mini01_main.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/../mini01/cmake-build-debug/CMakeFiles/mini01_main.dir/flags.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mini01/cmake-build-debug/CMakeFiles/mini01_main.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../mini01/cmake-build-debug/CMakeFiles/mini01_main.dir/link.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mini01/cmake-build-debug/CMakeFiles/mini01_main.dir/main.cpp.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mini01/cmake-build-debug/CMakeFiles/mini01_main.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/../mini01/cmake-build-debug/CMakeFiles/mini01_main.dir/progress.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mini01/cmake-build-debug/CMakeFiles/mini01_md5.dir/CXX.includecache" beforeDir="false" afterPath="$PROJECT_DIR$/../mini01/cmake-build-debug/CMakeFiles/mini01_md5.dir/CXX.includecache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mini01/cmake-build-debug/CMakeFiles/mini01_md5.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../mini01/cmake-build-debug/CMakeFiles/mini01_md5.dir/DependInfo.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mini01/cmake-build-debug/CMakeFiles/mini01_md5.dir/attack.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/../mini01/cmake-build-debug/CMakeFiles/mini01_md5.dir/attack.cpp.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mini01/cmake-build-debug/CMakeFiles/mini01_md5.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/../mini01/cmake-build-debug/CMakeFiles/mini01_md5.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mini01/cmake-build-debug/CMakeFiles/mini01_md5.dir/cmake_clean.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../mini01/cmake-build-debug/CMakeFiles/mini01_md5.dir/cmake_clean.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mini01/cmake-build-debug/CMakeFiles/mini01_md5.dir/cmake_clean_target.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../mini01/cmake-build-debug/CMakeFiles/mini01_md5.dir/cmake_clean_target.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mini01/cmake-build-debug/CMakeFiles/mini01_md5.dir/depend.internal" beforeDir="false" afterPath="$PROJECT_DIR$/../mini01/cmake-build-debug/CMakeFiles/mini01_md5.dir/depend.internal" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mini01/cmake-build-debug/CMakeFiles/mini01_md5.dir/depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/../mini01/cmake-build-debug/CMakeFiles/mini01_md5.dir/depend.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mini01/cmake-build-debug/CMakeFiles/mini01_md5.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/../mini01/cmake-build-debug/CMakeFiles/mini01_md5.dir/flags.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mini01/cmake-build-debug/CMakeFiles/mini01_md5.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../mini01/cmake-build-debug/CMakeFiles/mini01_md5.dir/link.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mini01/cmake-build-debug/CMakeFiles/mini01_md5.dir/md5/hl_md5.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/../mini01/cmake-build-debug/CMakeFiles/mini01_md5.dir/md5/hl_md5.cpp.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mini01/cmake-build-debug/CMakeFiles/mini01_md5.dir/md5/hl_md5wrapper.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/../mini01/cmake-build-debug/CMakeFiles/mini01_md5.dir/md5/hl_md5wrapper.cpp.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mini01/cmake-build-debug/CMakeFiles/mini01_md5.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/../mini01/cmake-build-debug/CMakeFiles/mini01_md5.dir/progress.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mini01/cmake-build-debug/CMakeFiles/mini01_tests.dir/CXX.includecache" beforeDir="false" afterPath="$PROJECT_DIR$/../mini01/cmake-build-debug/CMakeFiles/mini01_tests.dir/CXX.includecache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mini01/cmake-build-debug/CMakeFiles/mini01_tests.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../mini01/cmake-build-debug/CMakeFiles/mini01_tests.dir/DependInfo.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mini01/cmake-build-debug/CMakeFiles/mini01_tests.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/../mini01/cmake-build-debug/CMakeFiles/mini01_tests.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mini01/cmake-build-debug/CMakeFiles/mini01_tests.dir/cmake_clean.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../mini01/cmake-build-debug/CMakeFiles/mini01_tests.dir/cmake_clean.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mini01/cmake-build-debug/CMakeFiles/mini01_tests.dir/depend.internal" beforeDir="false" afterPath="$PROJECT_DIR$/../mini01/cmake-build-debug/CMakeFiles/mini01_tests.dir/depend.internal" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mini01/cmake-build-debug/CMakeFiles/mini01_tests.dir/depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/../mini01/cmake-build-debug/CMakeFiles/mini01_tests.dir/depend.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mini01/cmake-build-debug/CMakeFiles/mini01_tests.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/../mini01/cmake-build-debug/CMakeFiles/mini01_tests.dir/flags.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mini01/cmake-build-debug/CMakeFiles/mini01_tests.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../mini01/cmake-build-debug/CMakeFiles/mini01_tests.dir/link.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mini01/cmake-build-debug/CMakeFiles/mini01_tests.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/../mini01/cmake-build-debug/CMakeFiles/mini01_tests.dir/progress.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mini01/cmake-build-debug/CMakeFiles/mini01_tests.dir/test-main.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/../mini01/cmake-build-debug/CMakeFiles/mini01_tests.dir/test-main.cpp.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mini01/cmake-build-debug/CMakeFiles/mini01_tests.dir/test-student.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/../mini01/cmake-build-debug/CMakeFiles/mini01_tests.dir/test-student.cpp.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mini01/cmake-build-debug/CMakeFiles/progress.marks" beforeDir="false" afterPath="$PROJECT_DIR$/../mini01/cmake-build-debug/CMakeFiles/progress.marks" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mini01/cmake-build-debug/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/../mini01/cmake-build-debug/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mini01/cmake-build-debug/cmake_install.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../mini01/cmake-build-debug/cmake_install.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mini01/cmake-build-debug/libmini01_md5.a" beforeDir="false" afterPath="$PROJECT_DIR$/../mini01/cmake-build-debug/libmini01_md5.a" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mini01/cmake-build-debug/mini01.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/../mini01/cmake-build-debug/mini01.cbp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mini01/cmake-build-debug/short.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../mini01/cmake-build-debug/short.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mini01/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../mini01/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mini01/md5/hl_exception.hpp" beforeDir="false" afterPath="$PROJECT_DIR$/../mini01/md5/hl_exception.hpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mini01/md5/hl_hashwrapper.hpp" beforeDir="false" afterPath="$PROJECT_DIR$/../mini01/md5/hl_hashwrapper.hpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mini01/md5/hl_md5.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../mini01/md5/hl_md5.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mini01/md5/hl_md5.hpp" beforeDir="false" afterPath="$PROJECT_DIR$/../mini01/md5/hl_md5.hpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mini01/md5/hl_md5wrapper.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../mini01/md5/hl_md5wrapper.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mini01/md5/hl_md5wrapper.hpp" beforeDir="false" afterPath="$PROJECT_DIR$/../mini01/md5/hl_md5wrapper.hpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mini01/md5/hl_types.hpp" beforeDir="false" afterPath="$PROJECT_DIR$/../mini01/md5/hl_types.hpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mini01/short.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../mini01/short.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mini01/test-main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../mini01/test-main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mini01/test-student.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../mini01/test-student.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mini02/tests.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../mini02/tests.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mini03/elections.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../mini03/elections.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mini04/DiskDrive.h" beforeDir="false" afterPath="$PROJECT_DIR$/../mini04/DiskDrive.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mini04/GraphicsCard.h" beforeDir="false" afterPath="$PROJECT_DIR$/../mini04/GraphicsCard.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mini04/Memory.h" beforeDir="false" afterPath="$PROJECT_DIR$/../mini04/Memory.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mini04/NetworkAttachedStorage.h" beforeDir="false" afterPath="$PROJECT_DIR$/../mini04/NetworkAttachedStorage.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mini04/PersonalComputer.h" beforeDir="false" afterPath="$PROJECT_DIR$/../mini04/PersonalComputer.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mini04/Processor.h" beforeDir="false" afterPath="$PROJECT_DIR$/../mini04/Processor.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mini04/codestyle.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../mini04/codestyle.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mini05/bmp_image.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../mini05/bmp_image.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mini05/bmp_image.h" beforeDir="false" afterPath="$PROJECT_DIR$/../mini05/bmp_image.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mini05/codestyle.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../mini05/codestyle.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mini06/matrix.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../mini06/matrix.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mini06/matrix.hpp" beforeDir="false" afterPath="$PROJECT_DIR$/../mini06/matrix.hpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mini07/ApplicationHelp.hpp" beforeDir="false" afterPath="$PROJECT_DIR$/../mini07/ApplicationHelp.hpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mini07/CommandLineArgument.hpp" beforeDir="false" afterPath="$PROJECT_DIR$/../mini07/CommandLineArgument.hpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mini07/Print.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../mini07/Print.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mini07/Print.hpp" beforeDir="false" afterPath="$PROJECT_DIR$/../mini07/Print.hpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mini07/codestyle.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../mini07/codestyle.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mini09/PrettyPrint.hpp" beforeDir="false" afterPath="$PROJECT_DIR$/../mini09/PrettyPrint.hpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mini09/codestyle.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../mini09/codestyle.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mini10/codestyle.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../mini10/codestyle.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mini10/range.hpp" beforeDir="false" afterPath="$PROJECT_DIR$/../mini10/range.hpp" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="FUSProjectUsageTrigger">
+    <session id="-1989450566">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="3" />
+          <entry key="project.open.time.3" value="2" />
+          <entry key="project.open.time.4" value="1" />
+          <entry key="project.opened" value="3" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="450">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="144">
+              <caret line="6" column="39" selection-start-line="6" selection-start-column="39" selection-end-line="6" selection-end-column="39" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test_main.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="48">
+              <caret line="2" selection-start-line="2" selection-end-line="2" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test_student.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="326">
+              <caret line="91" column="42" selection-start-line="91" selection-start-column="42" selection-end-line="91" selection-end-column="42" />
+              <folding>
+                <element signature="e#97#115#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/trie.h">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-732">
+              <caret line="37" column="64" selection-start-line="37" selection-start-column="64" selection-end-line="37" selection-end-column="64" />
+              <folding>
+                <element signature="e#218#234#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/main.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="384">
+              <caret line="16" column="6" selection-start-line="16" selection-start-column="6" selection-end-line="16" selection-end-column="6" />
+              <folding>
+                <element signature="e#26#429#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>key not found</find>
+      <find>q</find>
+      <find>isRoot</find>
+      <find>ItemList</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>q_nodes</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/CMakeLists.txt" />
+        <option value="$PROJECT_DIR$/test_student.cpp" />
+        <option value="$PROJECT_DIR$/main.cpp" />
+        <option value="$PROJECT_DIR$/trie.h" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-10" />
+    <option name="y" value="9" />
+    <option name="width" value="1280" />
+    <option name="height" value="1383" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="hw04" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hw04" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../hw02" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="CPPToolchains" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.hw04_tests">
+    <configuration name="All in test_student.cpp" type="CMakeCatchTestRunConfigurationType" factoryName="Catch Test" temporary="true" PASS_PARENT_ENVS_2="true" TEST_PATTERN="[#test_student]" TEST_MODE="PATTERN">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Build All" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" CONFIG_NAME="Debug" EXPLICIT_BUILD_TARGET_NAME="all">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="hw04" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="hw04" TARGET_NAME="hw04" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="hw04" RUN_TARGET_NAME="hw04">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="hw04_tests" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="hw04" TARGET_NAME="hw04_tests" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="hw04" RUN_TARGET_NAME="hw04_tests">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Build All" />
+      <item itemvalue="Application.hw04" />
+      <item itemvalue="Application.hw04_tests" />
+      <item itemvalue="Catch.All in test_student.cpp" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Catch.All in test_student.cpp" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="06cc011e-498b-4e45-9ad1-9ad7861e140d" name="Default" comment="" />
+      <created>1513348561296</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1513348561296</updated>
+      <workItem from="1513348562478" duration="130000" />
+      <workItem from="1513348706719" duration="146000" />
+      <workItem from="1513348895466" duration="23214000" />
+      <workItem from="1513421101723" duration="15996000" />
+      <workItem from="1513474905889" duration="16363000" />
+      <workItem from="1513531444389" duration="391000" />
+      <workItem from="1513533796900" duration="1566000" />
+      <workItem from="1513535774635" duration="973000" />
+      <workItem from="1513537106763" duration="14275000" />
+      <workItem from="1513614542468" duration="70000" />
+      <workItem from="1513614643566" duration="7404000" />
+      <workItem from="1537609457525" duration="128000" />
+      <workItem from="1538146907914" duration="547000" />
+      <workItem from="1583862310830" duration="65000" />
+      <workItem from="1583862822472" duration="887000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="82155000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="2560" height="1384" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.255004" />
+      <window_info id="Structure" order="1" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.6691667" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.496875" weight="0.3991632" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Messages" order="7" sideWeight="0.496875" weight="0.32833335" />
+      <window_info anchor="bottom" id="Event Log" order="8" show_stripe_button="false" sideWeight="0.503125" side_tool="true" weight="0.39983845" />
+      <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="CMake" order="11" />
+      <window_info anchor="bottom" id="Inspection Results" order="12" weight="0.32970712" />
+      <window_info anchor="bottom" id="Database Changes" order="13" show_stripe_button="false" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Data View" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+    </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" weight="0.24979919" />
+      <window_info id="Structure" order="1" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Database Changes" order="0" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Message" order="1" />
+      <window_info anchor="bottom" id="Find" order="2" />
+      <window_info anchor="bottom" id="Run" order="3" weight="0.66945606" />
+      <window_info anchor="bottom" id="Debug" order="4" sideWeight="0.496875" weight="0.3991632" />
+      <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="7" />
+      <window_info anchor="bottom" id="Messages" order="8" sideWeight="0.496875" weight="0.3288703" />
+      <window_info anchor="bottom" id="Event Log" order="9" show_stripe_button="false" sideWeight="0.503125" side_tool="true" weight="0.39983845" />
+      <window_info anchor="bottom" id="Version Control" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="11" />
+      <window_info active="true" anchor="bottom" id="CMake" order="12" visible="true" weight="0.3294509" />
+      <window_info anchor="bottom" id="Inspection Results" order="13" weight="0.32970712" />
+      <window_info anchor="right" id="Database" order="0" />
+      <window_info anchor="right" id="Commander" order="1" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="2" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="3" weight="0.25" />
+      <window_info anchor="right" id="Data View" order="4" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/trie.h</url>
+          <line>267</line>
+          <option name="timeStamp" value="136" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/trie.h</url>
+          <line>273</line>
+          <option name="timeStamp" value="140" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/trie.h</url>
+          <line>274</line>
+          <option name="timeStamp" value="141" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/trie.h</url>
+          <line>280</line>
+          <option name="timeStamp" value="142" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/trie.h</url>
+          <line>281</line>
+          <option name="timeStamp" value="143" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/trie.h</url>
+          <line>262</line>
+          <option name="timeStamp" value="145" />
+        </line-breakpoint>
+      </breakpoints>
+      <breakpoints-dialog>
+        <breakpoints-dialog />
+      </breakpoints-dialog>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="CMakeRunConfiguration">
+        <watch expression="container" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/../mini10/test-student.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-756">
+          <caret line="7" column="26" selection-start-line="7" selection-start-column="26" selection-end-line="7" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/MinGW/lib/gcc/mingw32/6.3.0/include/c++/bits/move.h" />
+    <entry file="file://C:/MinGW/lib/gcc/mingw32/6.3.0/include/c++/bits/unique_ptr.h" />
+    <entry file="file://C:/MinGW/lib/gcc/mingw32/6.3.0/include/c++/bits/stl_pair.h" />
+    <entry file="file://C:/MinGW/lib/gcc/mingw32/6.3.0/include/c++/ext/new_allocator.h" />
+    <entry file="file://$PROJECT_DIR$/test_main.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="384">
+          <caret line="16" column="6" selection-start-line="16" selection-start-column="6" selection-end-line="16" selection-end-column="6" />
+          <folding>
+            <element signature="e#26#429#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_student.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="326">
+          <caret line="91" column="42" selection-start-line="91" selection-start-column="42" selection-end-line="91" selection-end-column="42" />
+          <folding>
+            <element signature="e#97#115#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/trie.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-732">
+          <caret line="37" column="64" selection-start-line="37" selection-start-column="64" selection-end-line="37" selection-end-column="64" />
+          <folding>
+            <element signature="e#218#234#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="6" column="39" selection-start-line="6" selection-start-column="39" selection-end-line="6" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

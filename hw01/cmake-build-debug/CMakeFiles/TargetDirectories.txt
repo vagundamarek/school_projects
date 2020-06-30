@@ -1,0 +1,4 @@
+/home/marek/Documents/pb161/hw01/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/marek/Documents/pb161/hw01/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/marek/Documents/pb161/hw01/cmake-build-debug/CMakeFiles/hw01_tests.dir
+/home/marek/Documents/pb161/hw01/cmake-build-debug/CMakeFiles/hw01_main.dir

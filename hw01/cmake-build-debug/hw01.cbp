@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="hw01"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/home/marek/Documents/pb161/hw01/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/home/marek/Documents/pb161/hw01/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/home/marek/Documents/pb161/hw01/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/home/marek/Documents/pb161/hw01/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/home/marek/Documents/pb161/hw01/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/home/marek/Documents/pb161/hw01/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/home/marek/Documents/pb161/hw01/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/home/marek/Documents/pb161/hw01/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/home/marek/Documents/pb161/hw01/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/home/marek/Documents/pb161/hw01/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/home/marek/Documents/pb161/hw01/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/home/marek/Documents/pb161/hw01/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/home/marek/Documents/pb161/hw01/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/home/marek/Documents/pb161/hw01/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/home/marek/Documents/pb161/hw01/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="hw01_tests">
+				<Option output="/home/marek/Documents/pb161/hw01/cmake-build-debug/hw01_tests" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/marek/Documents/pb161/hw01/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/home/marek/Documents/pb161/hw01/cmake-build-debug/Makefile&quot;  VERBOSE=1 hw01_tests"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/home/marek/Documents/pb161/hw01/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/home/marek/Documents/pb161/hw01/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/home/marek/Documents/pb161/hw01/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="hw01_tests/fast">
+				<Option output="/home/marek/Documents/pb161/hw01/cmake-build-debug/hw01_tests" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/marek/Documents/pb161/hw01/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/home/marek/Documents/pb161/hw01/cmake-build-debug/Makefile&quot;  VERBOSE=1 hw01_tests/fast"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/home/marek/Documents/pb161/hw01/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/home/marek/Documents/pb161/hw01/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/home/marek/Documents/pb161/hw01/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="hw01_main">
+				<Option output="/home/marek/Documents/pb161/hw01/cmake-build-debug/hw01_main" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/marek/Documents/pb161/hw01/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/home/marek/Documents/pb161/hw01/cmake-build-debug/Makefile&quot;  VERBOSE=1 hw01_main"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/home/marek/Documents/pb161/hw01/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/home/marek/Documents/pb161/hw01/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/home/marek/Documents/pb161/hw01/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="hw01_main/fast">
+				<Option output="/home/marek/Documents/pb161/hw01/cmake-build-debug/hw01_main" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/marek/Documents/pb161/hw01/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/home/marek/Documents/pb161/hw01/cmake-build-debug/Makefile&quot;  VERBOSE=1 hw01_main/fast"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/home/marek/Documents/pb161/hw01/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/home/marek/Documents/pb161/hw01/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/home/marek/Documents/pb161/hw01/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/home/marek/Documents/pb161/hw01/adoption.h">
+			<Option target="hw01_tests"/>
+			<Option target="hw01_main"/>
+		</Unit>
+		<Unit filename="/home/marek/Documents/pb161/hw01/animal.h">
+			<Option target="hw01_main"/>
+		</Unit>
+		<Unit filename="/home/marek/Documents/pb161/hw01/handler.cpp">
+			<Option target="hw01_tests"/>
+			<Option target="hw01_main"/>
+		</Unit>
+		<Unit filename="/home/marek/Documents/pb161/hw01/handler.h">
+			<Option target="hw01_tests"/>
+			<Option target="hw01_main"/>
+		</Unit>
+		<Unit filename="/home/marek/Documents/pb161/hw01/main.cpp">
+			<Option target="hw01_main"/>
+		</Unit>
+		<Unit filename="/home/marek/Documents/pb161/hw01/person.h">
+			<Option target="hw01_tests"/>
+			<Option target="hw01_main"/>
+		</Unit>
+		<Unit filename="/home/marek/Documents/pb161/hw01/test-main.cpp">
+			<Option target="hw01_tests"/>
+		</Unit>
+		<Unit filename="/home/marek/Documents/pb161/hw01/test-student.cpp">
+			<Option target="hw01_tests"/>
+		</Unit>
+		<Unit filename="/home/marek/Documents/pb161/hw01/zoo.cpp">
+			<Option target="hw01_tests"/>
+			<Option target="hw01_main"/>
+		</Unit>
+		<Unit filename="/home/marek/Documents/pb161/hw01/zoo.h">
+			<Option target="hw01_tests"/>
+			<Option target="hw01_main"/>
+		</Unit>
+		<Unit filename="/home/marek/Documents/pb161/hw01/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/marek/Documents/pb161/hw04/main.cpp
+trie.h
+/home/marek/Documents/pb161/hw04/trie.h
+
+/home/marek/Documents/pb161/hw04/trie.h
+algorithm
+-
+iostream
+-
+memory
+-
+queue
+-
+stack
+-
+utility
+-
+vector
+-
+

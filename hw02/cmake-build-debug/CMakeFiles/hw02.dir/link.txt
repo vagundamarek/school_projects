@@ -1,0 +1,1 @@
+/usr/bin/c++   -std=c++14 -Wall -Wextra -pedantic -Wold-style-cast -g  -rdynamic CMakeFiles/hw02.dir/main.cpp.o CMakeFiles/config.dir/config.cpp.o  -o hw02 

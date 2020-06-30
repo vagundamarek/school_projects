@@ -1,0 +1,4 @@
+[sekcia1]
+kluc11=hodnota11
+klu c11=hodnota12
+kl   uc 13=hodnota13

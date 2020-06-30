@@ -1,0 +1,1 @@
+/usr/bin/cc -g  -rdynamic CMakeFiles/hw02_C.dir/main.c.o CMakeFiles/configC.dir/config.c.o  -o hw02_C 

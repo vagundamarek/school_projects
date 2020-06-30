@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/marek/Documents/pb161/hw02/config.h
+
+/home/marek/Documents/pb161/hw02/main.c
+config.h
+/home/marek/Documents/pb161/hw02/config.h
+assert.h
+-
+stdio.h
+-
+
